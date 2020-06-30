@@ -56,9 +56,9 @@
 
 ## 📘 4. 开始写作
 
-用typora打开这个文件[科研日记.md](https://github.com/CyberspaceSecurityLabSoochowUniversity/SoochowUniversity_CyberspaceSecurityLab_Document/blob/master/%E7%A7%91%E7%A0%94%E6%97%A5%E8%AE%B0.md)开始你的升级之路!
+- 用typora打开这个文件[科研日记.md](https://github.com/CyberspaceSecurityLabSoochowUniversity/SoochowUniversity_CyberspaceSecurityLab_Document/blob/master/%E7%A7%91%E7%A0%94%E6%97%A5%E8%AE%B0.md)开始你的升级之路!
 
-这里是它截图：
+- 这里是它截图：
 
 ![](https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-07-01-5.png)
 
@@ -68,3 +68,6 @@
 
 - 直接进入这个链接：
 
+- 这里是它的封面截图：
+
+![](https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-07-01-7.png)
