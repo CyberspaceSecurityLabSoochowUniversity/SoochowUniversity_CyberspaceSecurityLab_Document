@@ -65,7 +65,7 @@
 
 # 📚 利用Overleaf在线编写Latex写组会报告等论文
 
-- 直接进入这个链接：
+- 直接进入这个链接：[`苏州大学网络空间安全实验室LaTeX模板 (Soochow University Cyber Security Lab Report Template)`](https://www.overleaf.com/latex/templates/su-zhou-da-xue-wang-luo-kong-jian-an-quan-shi-yan-shi-latexmo-ban-soochow-university-cyber-security-lab-report-template/zqzfbyjcrtbr)
 
 - 这里是它的封面截图：
 
