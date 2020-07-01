@@ -33,7 +33,7 @@
 
 ## 📗 2. 应用主题
 
-+ 将[theme](https://github.com/CyberspaceSecurityLabSoochowUniversity/SoochowUniversity_CyberspaceSecurityLab_Document/blob/master/theme)下所有CSS文件复制至 Typora 的主题目录（ Typora「偏好设置」中点击「外观 - 打开主题目录」定位到该目录）；
++ 将[theme](https://github.com/CyberspaceSecurityLabSoochowUniversity/SoochowUniversity_CyberspaceSecurityLab_Document/tree/master/theme)下所有CSS文件复制至 Typora 的主题目录（ Typora「偏好设置」中点击「外观 - 打开主题目录」定位到该目录）；
 + 重启 Typora ，点击菜单`主题`，选择以`vlook-*`形式命名的主题，即可启用对应的 VLOOK™ 主题样式；
 + 可基于`template`下的[文档模板-Template.md](https://github.com/CyberspaceSecurityLabSoochowUniversity/SoochowUniversity_CyberspaceSecurityLab_Document/blob/master/template/文档模板-Template.md) 为模板来创建你自己的 Markdown 文档。
 
