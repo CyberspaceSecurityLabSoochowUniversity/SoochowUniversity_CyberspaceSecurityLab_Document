@@ -27,21 +27,20 @@
 
 ## 📕 1. 下载、配置
 
-- 访问官方主页下载最新发布版本：[GitHub (主站)](https://github.com/MadMaxChow/VLOOK/releases)&nbsp;&nbsp;&nbsp;&nbsp;[OSChina (备用)](https://www.oschina.net/p/vlook)
-- 下载并安装 [Typora](https://www.typora.io) ，启动后进入「偏好设置」，启用一些建议的选项，详细如下图：
+- 访问官方主页下载最新发布版本并安装 [Typora](https://www.typora.io) ，启动后进入「偏好设置」，启用一些建议的选项，详细如下图：
 ![开启「Markdown 扩展语法」下的所有选项](https://tva1.sinaimg.cn/large/006tNbRwgy1ganwt7vwlaj31540cita9.jpg)
 ![开启「代码块」「公式」下的所有选项](https://tva1.sinaimg.cn/large/006tNbRwgy1ganwt7l785j315k0fuwg4.jpg)
 
 ## 📗 2. 应用主题
 
-+ 将`released\theme`下所有CSS文件复制至 Typora 的主题目录（ Typora「偏好设置」中点击「外观 - 打开主题目录」定位到该目录）；
++ 将[theme](https://github.com/CyberspaceSecurityLabSoochowUniversity/SoochowUniversity_CyberspaceSecurityLab_Document/blob/master/theme)下所有CSS文件复制至 Typora 的主题目录（ Typora「偏好设置」中点击「外观 - 打开主题目录」定位到该目录）；
 + 重启 Typora ，点击菜单`主题`，选择以`vlook-*`形式命名的主题，即可启用对应的 VLOOK™ 主题样式；
-+ 可基于`released`下的`文档模板-Template.md` 为模板来创建你自己的 Markdown 文档。
++ 可基于`template`下的[文档模板-Template.md](https://github.com/CyberspaceSecurityLabSoochowUniversity/SoochowUniversity_CyberspaceSecurityLab_Document/blob/master/template/文档模板-Template.md) 为模板来创建你自己的 Markdown 文档。
 
 ## 📘 3. 植入插件
 
 + 在 Typora 中将 Markdown 文件导出为`HTML`文件；
-+ 打开文件`released\VLOOK-plugin-for-Typora.txt`，全选所有内容，并复制；
++ 打开文件[VLOOK-plugin-for-Typora.txt](https://github.com/CyberspaceSecurityLabSoochowUniversity/SoochowUniversity_CyberspaceSecurityLab_Document/blob/master/VLOOK-plugin-for-Typora.txt)，全选所有内容，并复制；
 + 用纯文件编辑器，如：记事本、[Visual Studio Code](https://code.visualstudio.com/)，打开该导出的 HTML 文件；
 + 搜索「**<body **」，并将复制的内容粘贴到body标签的「**>**」之后：
   ```
