@@ -69,4 +69,4 @@
 
 - 这里是它的封面截图：
 
-![](https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-07-01-7.png)
+![](https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-07-06-1.png)
